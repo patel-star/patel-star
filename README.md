@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 Projects & Contributions  
-- **📊 [Top 2K Companies Dataset](https://www.kaggle.com/patel72)**  
+- **📊 [Top 10K Companies Dataset](https://www.kaggle.com/patel72)**  
   Web-scraped from AmbitionBox using Python (Pandas/BeautifulSoup)  
 - **🤖 ML Projects**: Working on regression, classification, and visualization  
 - **🌐 API Integration**: Used REST APIs for automation & data fetching  
